@@ -13,8 +13,7 @@
 - [License](#License)       
 
 ## About-Process
->
-You can see when the database was last restored, and who performed the restore ( or under what account the restore operation was run ). Just run this simple script. The results will also show you the 'type' or restore that was run.
+>You can see when the database was last restored, and who performed the restore ( or under what account the restore operation was run ). Just run this simple script. The results will also show you the 'type' or restore that was run.
 ---
 ## SQL-Logic
 ```SQL
